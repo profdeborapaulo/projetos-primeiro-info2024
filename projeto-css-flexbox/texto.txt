@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" href="css/style.css">
+     <title>Portfolio</title>
+     <style>
+         body{
+background-color: #f8eefc;
+padding: 20px;
+margin: 20px auto;
+border-radius: 8px;
+max-width: 600px;
+box-shadow: 0 0 10px rgb(85, 44, 233);
+border-image: 20px;
+    
+}
+
+header{
+ background-color:rgb(181, 160, 255);
+ color:rgb(1, 0, 2);
+ padding: 10px 0px;
+ border-image: 20px;
+ border-radius: 8px;
+ max-width: 600px;
+}
+nav ul{
+list-style-type:none;
+margin: 0px;
+padding: 0px;
+text-align:center;
+}
+
+nav ul li{
+display:inline;
+margin: 0 15px;
+
+}
+
+nav ul li a{
+    color:#3f7a64;
+    text-decoration:  none;
+    font-weight: bold;
+}
+
+main{
+
+    padding:20px;
+    text-align:center;
+
+}
+
+h1{
+
+    color:rgb(187, 104, 255)
+}
+
+section{
+background-color: #21455e;
+padding: 20px;
+margin: 20px auto;
+border-radius: 35px;
+max-width: 600px;
+box-shadow: 0 0 10px rgb(85, 44, 233);
+
+}
+
+  .imgbk{
+        margin-right: 50px;
+        margin-left: 30px;
+        margin-top: 30px;
+        margin-bottom: 50px;
+        width: 350px;
+        height: 500px;
+        border-radius: 35px;
+        box-shadow: 0 0 10px rgb(85, 44, 233);
+  }
+  .imgmae{
+        margin-right: 50px;
+        margin-left: 30px;
+        margin-top: 30px;
+        margin-bottom: 50px;
+        width: 400px;
+        height: 500px;
+        border-radius: 35px;
+        box-shadow: 0 0 10px rgb(85, 44, 233);
+  }
+  .imgdiagrama{
+        width: 450px;
+        height: 400px;
+        border-radius: 35px;
+        box-shadow: 0 0 10px rgb(85, 44, 233);
+  }
+    .figma1{
+        border-radius: 35px;
+        box-shadow: 0 0 10px rgb(85, 44, 233);
+  }
+  .figma2{
+        border-radius: 35px;
+        box-shadow: 0 0 10px rgb(85, 44, 233);
+  }
+  .figma3{
+        border-radius: 35px;
+        box-shadow: 0 0 10px rgb(85, 44, 233);
+  }
+
+     </style>
+</head>
+<body>
+     <header>
+         <nav>
+             <ul>
+                 <li> <a href="index.html">Inicio</a></li>
+                 <li> <a href="portfolio.html">Portfólio</a></li>
+                 <li> <a href="contato.html">Contato</a></li>
+             </ul>
+         </nav>
+     </header>
+<main>
+     <section>
+         <h1>Meu Portfólio</h1>
+         <p>Abaixo estão alguns dos meus projetos e trabalhos já feitos:</p>
+             <ul>
+                 <li class="portfolio"><p>Projeto1: Faço curso de arte digital, estou no primeiro ano de curso, tenho habilidadades em ferramentas como photoshop e figma, veja alguns projetos feitos no photoshop:</p>
+                    <img src="../aula 6/projetobk.jpg" class="imgbk" srcset="">   <img src="../aula 6/diadasmaes.jpg" class="imgmae" srcset=""> 
+                 </li>
+                  <li class="portfolio"><p>Projeto2: Criei um programa de reciclagem de lixo eletrônico, e usei diagrama de caso único para isso:</p>
+                    <img src="../aula 6/diagrama.png" class="imgdiagrama" srcet="">
+                 </li>
+                 <li class="portfolio">
+         <p>Projeto3:Com arte digital fiz um projeto no figma, se trata de uma loja de livros online, porémn que também vende produtos físicos:</p>
+         <img src="../aula 6/figma1.png" class="figma1" srcset=""> 
+         <img src="../aula 6/figma2.png" class="figma2" srcset=""> 
+         <img src="../aula 6/figma3.png" class="figma3" srcset=""> 
+                 </li>
+             </ul>
+         </p>
+     </section>
+</main>
+<footer>
+     <p>&copy; 2024 Maria Alice G. Azevedo. Todos os
+direitos reservados.</p>
+</footer>
+</body>
+</html>
