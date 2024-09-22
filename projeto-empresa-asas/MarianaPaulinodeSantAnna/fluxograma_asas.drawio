@@ -1,0 +1,399 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.6">
+  <diagram name="Página-1" id="oUi4SLUOaCW8eWvfJgEu">
+    <mxGraphModel dx="5174" dy="1840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AqORxd93VtXTK-WIX6aC-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-1" target="AqORxd93VtXTK-WIX6aC-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-1" value="INICIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="340" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-2" target="AqORxd93VtXTK-WIX6aC-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-2" value="DESTINO=SUL" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="325" y="150" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-4" target="AqORxd93VtXTK-WIX6aC-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-4" value="ECONOMICAINFANTL=3" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="287.5" y="250" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-6" target="AqORxd93VtXTK-WIX6aC-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-6" value="EXECUTIVAINFANTIL=2" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="294.38" y="350" width="192.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-8" target="AqORxd93VtXTK-WIX6aC-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-8" value="ECONOMICAADULTA=2" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="282.5" y="460" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-10" target="AqORxd93VtXTK-WIX6aC-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-10" value="EXECUTIVAADULTA=2" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="282.5" y="585" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-12" target="AqORxd93VtXTK-WIX6aC-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-12" target="AqORxd93VtXTK-WIX6aC-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="246" y="1219" />
+              <mxPoint x="103" y="1220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-12" value="DESTINO===&quot;NORTE&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="286.87" y="1169" width="205" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-14" target="AqORxd93VtXTK-WIX6aC-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-14" value="&quot;A quantidade de Passageiros Adultos é:&quot;, PASSAGEIROSADULTOS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="540" y="1310" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-17" target="AqORxd93VtXTK-WIX6aC-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-17" value="PASSAGEIROSADULTOS=&amp;gt; (ECONOMICAADULTA + EXECUTIVAADULTA)" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" parent="1" vertex="1">
+          <mxGeometry x="280" y="690" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-19" target="AqORxd93VtXTK-WIX6aC-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-19" value="PASSAGEIROSCRIANCAS=&amp;gt; (ECONOMICAINFATIL + EXECUTIVAINFANTIL)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=12;" parent="1" vertex="1">
+          <mxGeometry x="285.63" y="800" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-21" target="AqORxd93VtXTK-WIX6aC-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-21" value="PASSAGEIROSEXECUTIVA=&amp;gt; (EXECUTIVAINFANTIL + EXECUTIVAADULTA)" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=12;" parent="1" vertex="1">
+          <mxGeometry x="282.5" y="930" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-23" target="AqORxd93VtXTK-WIX6aC-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-23" value="PASSAGEIROSECONOMICA=&amp;gt; (ECONOMICAINFANTIL + ECONOMICAADULTA)" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=12;" parent="1" vertex="1">
+          <mxGeometry x="282.5" y="1050" width="213.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-26" target="AqORxd93VtXTK-WIX6aC-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-26" value="&quot;A quantidade de Passageiros Infantis é:&quot; , PASSAGEIROSCRIANCAS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="540" y="1470" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-28" target="AqORxd93VtXTK-WIX6aC-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-28" value="&quot;O destino escolhido foi:&quot;, DESTINO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="540" y="1629" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-30" target="AqORxd93VtXTK-WIX6aC-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-30" value="&quot;A quantidade de passageiros na executiva é:&quot;, PASSAGEIROSEXECUTIVA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="540" y="1790" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-32" target="AqORxd93VtXTK-WIX6aC-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-32" value="&quot;Sendo&quot;, EXECUTIVAINFANTIL, &quot;criança(s), e&quot;, EXECUTIVAADULTA, &quot;adulto(s)&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="540" y="1950" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-34" target="AqORxd93VtXTK-WIX6aC-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-34" value="&quot;A quantidade de passageiros na econômica é:&quot;, PASSAGEIROSECONOMICA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="540" y="2120" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-36" target="AqORxd93VtXTK-WIX6aC-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-36" value="&quot;Sendo&quot;, ECONOMICAINFANTIL, &quot;criança(s), e&quot;, ECONOMICAADULTA, &quot;adulto(s)&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="540" y="2290" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-38" value="&quot;O custo total da viagem foi: R$&quot;, CUSTOTOTAL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="540" y="2460" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-43" target="AqORxd93VtXTK-WIX6aC-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-43" value="&lt;div&gt;CUSTOTOTAL=&amp;gt; (ECONOMICAINFANTIL* 1800) + (ECONOMICAADULTA* 2500) + (EXECUTIVAINFANTIL* 1800+ (1800*10/100))&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; + (EXECUTIVAADULTA* 2500+ (2500*10/1000))&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=12;" parent="1" vertex="1">
+          <mxGeometry x="550" y="1153.5" width="230" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-48" target="AqORxd93VtXTK-WIX6aC-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-48" value="DESTINO===&quot;SUL&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="1305.5" width="205" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-51" target="AqORxd93VtXTK-WIX6aC-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-51" value="&quot;A quantidade de Passageiros Adultos é:&quot;, PASSAGEIROSADULTOS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1490" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-53" target="AqORxd93VtXTK-WIX6aC-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-53" value="&quot;A quantidade de Passageiros Infantis é:&quot; , PASSAGEIROSCRIANCAS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1680" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-55" target="AqORxd93VtXTK-WIX6aC-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-55" value="&quot;O destino escolhido foi:&quot;, DESTINO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="200" y="1858.5" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-57" target="AqORxd93VtXTK-WIX6aC-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-57" value="&quot;A quantidade de passageiros na executiva é:&quot;, PASSAGEIROSEXECUTIVA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="200" y="2030" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-59" target="AqORxd93VtXTK-WIX6aC-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-59" value="&quot;Sendo&quot;, EXECUTIVAINFANTIL, &quot;criança(s), e&quot;, EXECUTIVAADULTA, &quot;adulto(s)&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="200" y="2200" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-61" target="AqORxd93VtXTK-WIX6aC-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-61" value="&quot;A quantidade de passageiros na econômica é:&quot;, PASSAGEIROSECONOMICA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="200" y="2381.5" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-63" target="AqORxd93VtXTK-WIX6aC-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-63" value="&quot;Sendo&quot;, ECONOMICAINFANTIL, &quot;criança(s), e&quot;, ECONOMICAADULTA, &quot;adulto(s)&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="200" y="2560" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="HGkPGIx7_9654QilTqwN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AqORxd93VtXTK-WIX6aC-64" target="HGkPGIx7_9654QilTqwN-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="325" y="3131" />
+              <mxPoint x="92" y="3131" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-64" value="&quot;O custo total da viagem foi: R$&quot;, CUSTOTOTAL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="200" y="2760" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-66" target="AqORxd93VtXTK-WIX6aC-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-66" value="CUSTOTOTAL=&amp;gt; ECONOMICAINFANTIL+ ECONOMICAADULTA) * 3000) + ((EXECUTIVAINFANTIL+ EXECUTIVAADULTA ) * 4000" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=12;" parent="1" vertex="1">
+          <mxGeometry x="210" y="1290" width="230" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="HGkPGIx7_9654QilTqwN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AqORxd93VtXTK-WIX6aC-78" target="AqORxd93VtXTK-WIX6aC-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-78" value="DESTINO===&quot;ASIA&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-389.37" y="1470" width="205" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-80" target="AqORxd93VtXTK-WIX6aC-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-80" value="&quot;A quantidade de Passageiros Adultos é:&quot;, PASSAGEIROSADULTOS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="1650" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-82" target="AqORxd93VtXTK-WIX6aC-84" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-82" value="&quot;A quantidade de Passageiros Infantis é:&quot; , PASSAGEIROSCRIANCAS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-139.37" y="1830" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-84" target="AqORxd93VtXTK-WIX6aC-86" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-84" value="&quot;O destino escolhido foi:&quot;, DESTINO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="1987" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-86" target="AqORxd93VtXTK-WIX6aC-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-86" value="&quot;A quantidade de passageiros na executiva é:&quot;, PASSAGEIROSEXECUTIVA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-139.37" y="2148" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-88" target="AqORxd93VtXTK-WIX6aC-90" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-88" value="&quot;Sendo&quot;, EXECUTIVAINFANTIL, &quot;criança(s), e&quot;, EXECUTIVAADULTA, &quot;adulto(s)&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-139.37" y="2308" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-90" target="AqORxd93VtXTK-WIX6aC-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-90" value="&quot;A quantidade de passageiros na econômica é:&quot;, PASSAGEIROSECONOMICA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="2478" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-92" target="AqORxd93VtXTK-WIX6aC-93" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-92" value="&quot;Sendo&quot;, ECONOMICAINFANTIL, &quot;criança(s), e&quot;, ECONOMICAADULTA, &quot;adulto(s)&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-139.37" y="2648" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="HGkPGIx7_9654QilTqwN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AqORxd93VtXTK-WIX6aC-93" target="HGkPGIx7_9654QilTqwN-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-93" value="&quot;O custo total da viagem foi: R$&quot;, CUSTOTOTAL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-139.37" y="2818" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="HGkPGIx7_9654QilTqwN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AqORxd93VtXTK-WIX6aC-95" target="AqORxd93VtXTK-WIX6aC-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-95" value="CUSTOTOTAL=&amp;gt; ECONOMICAINFANTIL+ ECONOMICAADULTA) * 3000) + ((EXECUTIVAINFANTIL+ EXECUTIVAADULTA ) * 4000" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-130" y="1454.5" width="230" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-98" target="AqORxd93VtXTK-WIX6aC-115" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-98" value="DESTINO===&quot;EUROPA&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-720" y="1615" width="205" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-100" target="AqORxd93VtXTK-WIX6aC-102" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-100" value="&quot;A quantidade de Passageiros Adultos é:&quot;, PASSAGEIROSADULTOS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="1785.5" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-102" target="AqORxd93VtXTK-WIX6aC-104" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-102" value="&quot;A quantidade de Passageiros Infantis é:&quot; , PASSAGEIROSCRIANCAS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="1987" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-104" target="AqORxd93VtXTK-WIX6aC-106" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-104" value="&quot;O destino escolhido foi:&quot;, DESTINO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="2213" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-106" target="AqORxd93VtXTK-WIX6aC-108" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-106" value="&quot;A quantidade de passageiros na executiva é:&quot;, PASSAGEIROSEXECUTIVA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="2435" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-108" target="AqORxd93VtXTK-WIX6aC-110" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-108" value="&quot;Sendo&quot;, EXECUTIVAINFANTIL, &quot;criança(s), e&quot;, EXECUTIVAADULTA, &quot;adulto(s)&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="2630" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-110" target="AqORxd93VtXTK-WIX6aC-112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-110" value="&quot;A quantidade de passageiros na econômica é:&quot;, PASSAGEIROSECONOMICA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="2810" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-112" target="AqORxd93VtXTK-WIX6aC-113" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-112" value="&quot;Sendo&quot;, ECONOMICAINFANTIL, &quot;criança(s), e&quot;, ECONOMICAADULTA, &quot;adulto(s)&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="3000" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-113" value="&quot;O custo total da viagem foi: R$&quot;, CUSTOTOTAL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="3170" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="HGkPGIx7_9654QilTqwN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AqORxd93VtXTK-WIX6aC-115" target="AqORxd93VtXTK-WIX6aC-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-115" value="CUSTOTOTAL=&amp;gt; ECONOMICAINFANTIL+ ECONOMICAADULTA) * 5800) + ((EXECUTIVAINFANTIL+ EXECUTIVAADULTA) * 7300" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-480" y="1599.5" width="230" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-121" target="AqORxd93VtXTK-WIX6aC-123" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-121" value="&quot;A quantidade de Passageiros Adultos é:&quot;, PASSAGEIROSADULTOS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-890" y="1970" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-123" target="AqORxd93VtXTK-WIX6aC-125" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-123" value="&quot;A quantidade de Passageiros Infantis é:&quot; , PASSAGEIROSCRIANCAS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-889.9999999999999" y="2183" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-125" target="AqORxd93VtXTK-WIX6aC-127" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-125" value="&quot;O destino escolhido foi:&quot;, DESTINO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-890" y="2400" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-127" target="AqORxd93VtXTK-WIX6aC-129" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-127" value="&quot;A quantidade de passageiros na executiva é:&quot;, PASSAGEIROSEXECUTIVA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-889.9999999999999" y="2620" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-129" target="AqORxd93VtXTK-WIX6aC-131" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-129" value="&quot;Sendo&quot;, EXECUTIVAINFANTIL, &quot;criança(s), e&quot;, EXECUTIVAADULTA, &quot;adulto(s)&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-889.9999999999999" y="2830" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-131" target="AqORxd93VtXTK-WIX6aC-133" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-131" value="&quot;A quantidade de passageiros na econômica é:&quot;, PASSAGEIROSECONOMICA" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-890" y="3020" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AqORxd93VtXTK-WIX6aC-133" target="AqORxd93VtXTK-WIX6aC-134" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-133" value="&quot;Sendo&quot;, ECONOMICAINFANTIL, &quot;criança(s), e&quot;, ECONOMICAADULTA, &quot;adulto(s)&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-889.9999999999999" y="3210" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="HGkPGIx7_9654QilTqwN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AqORxd93VtXTK-WIX6aC-134" target="HGkPGIx7_9654QilTqwN-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-134" value="&quot;O custo total da viagem foi: R$&quot;, CUSTOTOTAL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-889.9999999999999" y="3400" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="HGkPGIx7_9654QilTqwN-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AqORxd93VtXTK-WIX6aC-136" target="AqORxd93VtXTK-WIX6aC-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-136" value="CUSTOTOTAL=&amp;gt; ECONOMICAINFANTIL+ ECONOMICAADULTA) * 4200) + ((EXECUTIVAINFANTIL+ EXECUTIVAADULTA&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ) * 6900" style="whiteSpace=wrap;html=1;rounded=1;strokeWidth=2;arcSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-879.9999999999999" y="1754" width="230" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="HGkPGIx7_9654QilTqwN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AqORxd93VtXTK-WIX6aC-48" target="AqORxd93VtXTK-WIX6aC-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HGkPGIx7_9654QilTqwN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AqORxd93VtXTK-WIX6aC-78" target="AqORxd93VtXTK-WIX6aC-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HGkPGIx7_9654QilTqwN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AqORxd93VtXTK-WIX6aC-119" target="AqORxd93VtXTK-WIX6aC-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AqORxd93VtXTK-WIX6aC-119" value="DESTINO===&quot;AFRICA&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-1180" y="1769.5" width="205" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HGkPGIx7_9654QilTqwN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AqORxd93VtXTK-WIX6aC-98" target="AqORxd93VtXTK-WIX6aC-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HGkPGIx7_9654QilTqwN-13" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;FIM_ALGORITMO&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="3377.5" width="283.33" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="HGkPGIx7_9654QilTqwN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AqORxd93VtXTK-WIX6aC-113" target="HGkPGIx7_9654QilTqwN-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HGkPGIx7_9654QilTqwN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AqORxd93VtXTK-WIX6aC-38" target="HGkPGIx7_9654QilTqwN-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="3463" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
