@@ -51,6 +51,11 @@ a{
     padding: 10px;
     box-shadow: 0 0 15px rgba(0.4, 0.4, 0.4, 0.4);
     border: 2px solid#000000;
+    background-image: url(img/Flores.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
 }
 .row{
     display: flex;
@@ -152,12 +157,17 @@ footer{
 }
 .form-container2 {
     padding: 20px;
-    background-color: #ab85b486;
+    background-color: #ddd;
     border-radius: 15px;
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4 );
     max-width: 60%;
     margin: 20px auto;
     border: 2px solid#000000;
+    background-image: url(img/Flores_Palidas.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
 }
 .tamanho{
     font-size: 23px;
@@ -235,7 +245,7 @@ footer{
     border: 2.5px solid#000000;
 }
 body {
-    background-image: url('img/Marmore.jpg');
+    background-image: url('img/Fundo.jfif');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
