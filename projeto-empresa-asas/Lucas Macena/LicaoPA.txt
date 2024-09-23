@@ -1,0 +1,103 @@
+// Definindo o preço inicial da viagem
+let precoViagem = 0; // Preço total da viagem
+
+// Definindo a quantidade de passageiros
+let adultos = 2; // Quantidade de passageiros adultos
+let criancas = 1; // Quantidade de passageiros crianças
+
+// Definindo o tipo de voo: 1 para voos domésticos, 2 para internacionais
+let tipoVoo = 2; // 1 - Voos Domésticos, 2 - Voos Internacionais
+
+// Definindo a classe do voo: 1 para classe econômica, 2 para executiva
+let classe = 1; // 1 - Classe Econômica, 2 - Classe Executiva
+
+// Inicializando variáveis para armazenar o destino e o nome da classe
+let destino = "/" // Destino da viagem
+let classeTexto = "/" // Descrição da classe escolhida
+
+// Inicializando variáveis que irão armazenar o preço de acordo com a quantidade de adultos e crianças
+let a = 0; // Preço total para adultos
+let c = 0; // Preço total para crianças
+
+// Determina o nome da classe com base na variável 'classe'
+if (classe == 1) {
+    classeTexto == "Classe Econômica"; // Se classe for 1, é classe econômica
+} else {
+    classeTexto == "Classe Executiva"; // Se classe for diferente de 1, é classe executiva
+}
+
+// Verifica se o tipo de voo é doméstico (tipoVoo == 1)
+if (tipoVoo == 1) { 
+    let regiao = 1; // 1 - Norte, 2 - Sul (região dentro do país)
+
+    // Calcula o preço baseado na região escolhida
+    if (regiao == 1) { // Região Norte
+        destino = "Norte"; // Define o destino como Norte
+        if (classe == 1) { // Se for classe econômica
+            a = adultos * 500; // Custo por adulto na classe econômica
+            c = criancas * 400; // Custo por criança na classe econômica
+            preco = a + c; // Preço total
+        } else if (classe = 2) { // Se for classe executiva
+            a = adultos * 500 + (500 * 0.2); // Custo por adulto com 20% adicional
+            c = criancas * 400 + (400 * 0.1); // Custo por criança com 10% adicional
+            preco = a + c; // Preço total
+        }
+    } else if (regiao == 2) { // Região Sul
+        destino = "Sul"; // Define o destino como Sul
+        if (classe == 1) { // Classe econômica
+            a = adultos * 200; // Custo por adulto
+            c = criancas * 200; // Custo por criança
+            preco = a + c; // Preço total
+        } else if (classe = 2) { // Classe executiva
+            a = adultos * 400; // Custo por adulto
+            c = criancas * 400; // Custo por criança
+            preco = a + c; // Preço total
+        }
+    }
+} else if (tipoVoo == 2) { // Voo internacional
+    let continente = 1; // 1 - Ásia, 2 - Europa, 3 - África
+
+    // Calcula o preço baseado no continente escolhido
+    if (continente == 1) { // Continente asiático
+        destino = "Continente asiático"; // Define destino como Ásia
+        if (classe == 1) { // Classe econômica
+            a = adultos * 1600; // Custo por adulto
+            c = criancas * 1600; // Custo por criança
+            preco = a + c; // Preço total
+        } else if (classe == 2) { // Classe executiva
+            a = adultos * 2000; // Custo por adulto
+            c = criancas * 2000; // Custo por criança
+            preco = a + c; // Preço total
+        }
+    } else if (continente == 2) { // Continente europeu
+        destino = "Continente europeu"; // Define destino como Europa
+        if (classe == 1) { // Classe econômica
+            a = adultos * 1800; // Custo por adulto
+            c = criancas * 1800; // Custo por criança
+            preco = a + c; // Preço total
+        } else if (classe == 2) { // Classe executiva
+            a = adultos * 2300; // Custo por adulto
+            c = criancas * 2300; // Custo por criança
+            preco = a + c; // Preço total
+        }
+    } else if (continente == 3) { // Continente africano
+        destino = "Continente africano"; // Define destino como África
+        if (classe == 1) { // Classe econômica
+            a = adultos * 1200; // Custo por adulto
+            c = criancas * 1200; // Custo por criança
+            preco = a + c; // Preço total
+        } else if (classe == 2) { // Classe executiva
+            a = adultos * 1900; // Custo por adulto
+            c = criancas * 1900; // Custo por criança
+            preco = a + c; // Preço total
+        }
+    }
+}
+
+// Exibe o resumo da viagem e o preço total
+console.log("*** O custo total do seu pacote é: ***");
+console.log("\nQuantidade de passageiros adultos:", adultos);
+console.log("\nQuantidade de passageiros crianças:", criancas);
+console.log("\nDestino escolhido:", destino);
+console.log("\nCusto total viagem: R$" + preco);
+console.log("\n*** Fim do programa ****");
