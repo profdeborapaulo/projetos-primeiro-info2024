@@ -1,0 +1,125 @@
+//Voos Domésticos
+//Passagens Para O Norte Do Brasil
+let NorteBR_Economica = 2500 //Passagens Econômica Sul
+let NorteBR_Economica_Kids = 1800 //Passagens Econômica Sul
+let NorteBR_Executiva = (NorteBR_Economica+(2500*20)/100) //Passagens Executiva Para Crianças Norte
+let NorteBR_Executiva_Kids = (1800+20) //Passagens Executiva Para Crianças Norte
+
+//Passagens Para O Sul Do Brasil
+let SulBR_Economica = 3000 //Passagens Econômica Sul
+let SulBR_Executiva = 4000 //Passagens Executiva Sul
+let SulBR_Economica_Kids = 3000 //Passagens Econômica Para Crianças Sul
+let SulBR_Executiva_Kids = 4000 //Passagens Executiva Para Crianças Sul
+
+//Voos Internacionais
+//Continente Asiático
+let Classe_Economica_Asia = 4600 //Passagens Econômica
+let Classe_Executiva_Asia = 6000 //Passagens Executiva
+
+//Continente Europeu
+let Classe_Economica_Europa = 5800 //Passagens Econômica
+let Classe_Executiva_Europa = 7300 //Passagens Executiva
+
+//Continente Africano
+let Classe_Economica_Africa = 4200 //Passagens Econômica
+let Classe_Executiva_Africa = 6900 //Passagens Executiva
+
+let Passageiros_Adultos = 34 //Quantidade De Passageiros Adultos
+let Passageiros_Kids = 13 //Quantidade de Passageiros Crianças
+
+
+//Definição Do Destino e Classe (Exemplo)
+let destino = 'Norte'; //Destino Escolhido Para o Voo, Pode Ser 'Norte', 'Sul', 'Ásia', 'Europa', ou 'África'
+let classe = 'Executiva'; //Classe Escolhida Para o Voo, Pode Ser 'Econômica' ou 'Executiva'
+
+//Variáveis Para o Cálculo
+let custoTotal = 0; //Inicializa o Custo Total Da Viagem
+let totalPassagensAdultos = 0;  //Inicializa o Total De Passagens Adultas
+let totalPassagensKids = 0; //Inicializa o Total De Passagens Infantis
+let totalExecutiva = 0; //Inicializa o Total De Passagens Da Classe Executiva
+let totalEconomica = 0; //Inicializa o Total De Passagens Da Classe Econômica
+
+//Cálculo Do Dusto Com Base No Destino e Na Classe
+if (destino === 'Norte') { //Verifica Se o Destino é o Norte
+    if (classe === 'Econômica') { //Verifica Se a Classe é Econômica
+        custoTotal = (Passageiros_Adultos * NorteBR_Economica) + (Passageiros_Kids * NorteBR_Economica_Kids); //Calcula o Custo Total Da Viagem Para Classe Econômica
+        totalPassagensAdultos = Passageiros_Adultos; //Atualiza o Número De Passagens Adultas
+        totalPassagensKids = Passageiros_Kids; //Atualiza o Número De Passagens Infantis
+        totalExecutiva = 0; //Não Há Passagens Executivas
+        totalEconomica = Passageiros_Adultos + Passageiros_Kids; //Atualiza o Total De Passagens Econômicas        
+    } else if (classe === 'Executiva') { //Verifica Se a Classe é Executiva
+        custoTotal = (Passageiros_Adultos * NorteBR_Executiva) + (Passageiros_Kids * NorteBR_Executiva_Kids); //Calcula o Custo Total Da Viagem Para Classe Executiva
+        totalPassagensAdultos = Passageiros_Adultos; //Atualiza o Número De Passagens Adultas
+        totalPassagensKids = Passageiros_Kids; //Atualiza o Número De Passagens Infantis
+        totalExecutiva = Passageiros_Adultos + Passageiros_Kids; //Atualiza o Total De Passagens Executivas
+        totalEconomica = 0; //Não Há Passagens Econômicas
+    }
+} else if (destino === 'Sul') { //Verifica Se o Destino é o Sul
+    if (classe === 'Econômica') { //Verifica Se a Classe é Econômica
+        custoTotal = (Passageiros_Adultos * SulBR_Economica) + (Passageiros_Kids * SulBR_Economica_Kids); //Cálculo Para o Sul Na Classe Econômica
+        totalPassagensAdultos = Passageiros_Adultos; //Atualiza o Número De Passagens Adultas
+        totalPassagensKids = Passageiros_Kids; //Atualiza o Número De Passagens Infantis
+        totalExecutiva = 0; //Não Há Passagens Executivas
+        totalEconomica = Passageiros_Adultos + Passageiros_Kids; //Atualiza o Total De Passagens Econômicas
+    } else if (classe === 'Executiva') { //Verifica Se a Classe é Executiva
+        custoTotal = (Passageiros_Adultos * SulBR_Executiva) + (Passageiros_Kids * SulBR_Executiva_Kids); //Cálculo Para o Sul Na Classe Executiva
+        totalPassagensAdultos = Passageiros_Adultos; //Atualiza o Número De Passagens Adultas
+        totalPassagensKids = Passageiros_Kids; //Atualiza o Número De Passagens Infantis
+        totalExecutiva = Passageiros_Adultos + Passageiros_Kids; //Atualiza o Total De Passagens Executivas
+        totalEconomica = 0; //Não Há Passagens Econômicas
+    }
+} else if (destino === 'Ásia') { //Verifica Se o Destino é a Ásia
+    if (classe === 'Econômica') { //Verifica Se a Classe é Econômica
+        custoTotal = (Passageiros_Adultos * Classe_Economica_Asia) + (Passageiros_Kids * Classe_Economica_Asia); //Cálculo Para a Ásia Na Classe Econômica
+        totalPassagensAdultos = Passageiros_Adultos; //Atualiza o Número De Passagens Adultas
+        totalPassagensKids = Passageiros_Kids; //Atualiza o Número De Passagens Infantis
+        totalExecutiva = 0; //Não Há Passagens Executivas
+        totalEconomica = Passageiros_Adultos + Passageiros_Kids; //Atualiza o Total De Passagens Econômicas
+    } else if (classe === 'Executiva') { //Verifica Se a Classe é Executiva
+        custoTotal = (Passageiros_Adultos * Classe_Executiva_Asia) + (Passageiros_Kids * Classe_Executiva_Asia); //Cálculo Para A Ásia Na Classe Executiva
+        totalPassagensAdultos = Passageiros_Adultos; //Atualiza o Número De Passagens Adultas
+        totalPassagensKids = Passageiros_Kids; //Atualiza o Número De Passagens Infantis
+        totalExecutiva = Passageiros_Adultos + Passageiros_Kids; //Atualiza o Total De Passagens Executivas
+        totalEconomica = 0; //Não Há Passagens Econômicas
+    }
+} else if (destino === 'Europa') { //Verifica Se o Destino é a Europa
+    if (classe === 'Econômica') { //Verifica Se a Classe é Econômica
+        custoTotal = (Passageiros_Adultos * Classe_Economica_Europa) + (Passageiros_Kids * Classe_Economica_Europa); //Cálculo Para a Europa Na Classe Econômica
+        totalPassagensAdultos = Passageiros_Adultos; //Atualiza o Número De Passagens Adultas
+        totalPassagensKids = Passageiros_Kids; //Atualiza o Número De Passagens Infantis
+        totalExecutiva = 0; //Não Há Passagens Executivas
+        totalEconomica = Passageiros_Adultos + Passageiros_Kids; //Atualiza o Total De Passagens Econômicas
+    } else if (classe === 'Executiva') { //Verifica Se a Classe é Executiva
+        custoTotal = (Passageiros_Adultos * Classe_Executiva_Europa) + (Passageiros_Kids * Classe_Executiva_Europa); //Cálculo Para a Europa Na Classe Executiva
+        totalPassagensAdultos = Passageiros_Adultos; //Atualiza o Número De Passagens Adultas
+        totalPassagensKids = Passageiros_Kids; //Atualiza o Número De Passagens Infantis
+        totalExecutiva = Passageiros_Adultos + Passageiros_Kids; //Atualiza o Total De Passagens Executivas
+        totalEconomica = 0; //Não Há Passagens Econômicas
+    }
+} else if (destino === 'África') { //Verifica Se o Destino é a Áfriaca
+    if (classe === 'Econômica') { //Verifica Se a Classe é Econômica
+        custoTotal = (Passageiros_Adultos * Classe_Economica_Africa) + (Passageiros_Kids * Classe_Economica_Africa); //Cálculo Para A África Na Classe Econômica
+        totalPassagensAdultos = Passageiros_Adultos; //Atualiza o Número De Passagens Adultas
+        totalPassagensKids = Passageiros_Kids; //Atualiza o Número De Passagens Infantis
+        totalExecutiva = 0; //Não Há Passagens Executivas
+        totalEconomica = Passageiros_Adultos + Passageiros_Kids; //Atualiza o Total De Passagens Econômicas
+    } else if (classe === 'Executiva') { //Verifica Se a Classe é Executiva
+        custoTotal = (Passageiros_Adultos * Classe_Executiva_Africa) + (Passageiros_Kids * Classe_Executiva_Africa); //Cálculo Para a África Na Classe Executiva
+        totalPassagensAdultos = Passageiros_Adultos; //Atualiza o Número De Passagens Adultas
+        totalPassagensKids = Passageiros_Kids; //Atualiza o Número De Passagens Infantis
+        totalExecutiva = Passageiros_Adultos + Passageiros_Kids; //Atualiza o Total De Passagens Executivas
+        totalEconomica = 0; //Não Há Passagens Econômicas
+    }
+}
+
+// Exibindo o resultado
+console.log(`---O custo total do seu pacote é de---`) //Linha De Introdução Do Pacote De Viagem
+console.log(` `) //Espaçamento De Linha
+console.log(`Total de passagens adultas é: ${totalPassagensAdultos}`); //Mostrar Quantidade/Passagens Adultas
+console.log(`Total de passagens infantis é: ${totalPassagensKids}`); //Mostrar Quantidade/Passagens Infantis
+console.log(`O destino escolhido foi: ${destino}`); //Mostrar Destino Escolhido Da Viagem
+console.log(`A classe do seu voo é: ${classe}`); //Mostrar Classe Escolhida Da Viagem
+console.log(`Custo total da viagem é: R$ ${custoTotal.toFixed(2)}`); //Mostrar Valor Total Da Viagem
+console.log(` `) //Espaçamento De Linha
+console.log(`---Fim do Programa---`) //Mensagem Final Do Programa
+ 
